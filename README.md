@@ -1,3 +1,11 @@
-https://www.udemy.com/course/react-and-typescript-build-a-portfolio-project/learn/lecture/24337618#search
+# Info
+Calling npm package search api to find all the packages that match a search string
 
-Section 4 of the project here
+<img src='./public/screenshot.png' />
+
+## Tech
+- Typescript
+- React
+- Redux
+- Hooks
+- Custom Hooks
